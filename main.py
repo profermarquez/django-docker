@@ -1,1 +1,1 @@
-print('Hola mundo')
+print('Este es el directorio raiz')
